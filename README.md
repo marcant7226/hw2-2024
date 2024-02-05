@@ -1,2 +1,2 @@
-# hw2-2024
-HW2 Simple CSS 
+# hw2_simple_css
+Starter code for simple css assignment
